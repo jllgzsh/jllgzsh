@@ -1,4 +1,4 @@
-### Hi there 👋
+### 金陵理工知识汇，汇聚各个时代的信息，免费为大家提供服务
 
 <!--
 **jllgzsh/jllgzsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
